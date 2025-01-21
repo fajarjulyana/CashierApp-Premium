@@ -1,0 +1,8 @@
+Package: cashierapp
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: amd64
+Depends: libc6 (>= 2.7), libgtk-3-0 (>= 3.0), libgdk-pixbuf2.0-0 (>= 2.30)
+Maintainer: Nama Anda <email@domain.com>
+Description: Aplikasi kasir untuk manajemen transaksi penjualan dengan management input dan management admin

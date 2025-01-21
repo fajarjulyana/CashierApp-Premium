@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=ManageApp
+Comment=Aplikasi management untuk manajemen transaksi penjualan
+Exec=/usr/bin/ManageApp
+Icon=manageapp
+Terminal=false
+Type=Application
+Categories=Utility;Application;

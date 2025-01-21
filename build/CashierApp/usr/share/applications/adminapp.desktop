@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=AdminApp
+Comment=Aplikasi admin untuk manajemen transaksi penjualan
+Exec=/usr/bin/AdminApp
+Icon=adminapp
+Terminal=false
+Type=Application
+Categories=Utility;Application;

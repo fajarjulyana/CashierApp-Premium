@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=CashierApp
+Comment=Aplikasi kasir untuk manajemen transaksi penjualan
+Exec=/usr/bin/CashierApp
+Icon=cashierapp
+Terminal=false
+Type=Application
+Categories=Utility;Application;
